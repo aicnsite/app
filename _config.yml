@@ -8,7 +8,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # URL 链接
-url: https://blog.fangaso.com
+url: https://app.aicn.vercel.app
 root: /
 permalink: :hash.html
 permalink_defaults:
